@@ -1,0 +1,8 @@
+langchain
+langgraph
+mcp
+dotenv
+langchain_groq
+wikipedia
+langchain-mcp-adapters
+streamlit
