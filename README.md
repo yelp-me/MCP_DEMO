@@ -28,3 +28,9 @@ Create a `.env` file in the root of the project:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
+```
+Run using streamlit run client.py
+
+MIT license
+
+
